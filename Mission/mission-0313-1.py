@@ -1,0 +1,10 @@
+n1 = input("input integer a: ")
+n2 = input("input float b: ")
+a=n1+n2
+b=n1-n2
+c=n1*n2
+d=n1/n2
+print "a + b = %f" %a
+print "a - b = %f" %b
+print "a * b = %f" %c
+print "a / b = %f" %d
